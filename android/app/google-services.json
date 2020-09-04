@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63391029520",
+    "firebase_url": "https://petlove-b0a21.firebaseio.com",
+    "project_id": "petlove-b0a21",
+    "storage_bucket": "petlove-b0a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63391029520:android:9a13de0c48d911a1482d95",
+        "android_client_info": {
+          "package_name": "com.annhuang.pet_love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63391029520-o0jp7mi5222aflpp120nr6eo299pbq60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMF3n2mqFuVmmgmCp30MPA7qXp8ZxY7i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63391029520-o0jp7mi5222aflpp120nr6eo299pbq60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63391029520-jfrokq95mbgar69sp9tvknufpt0bu0a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.annhuang.petLove"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
